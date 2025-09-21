@@ -2,4 +2,4 @@
 Clone website (march)
 <br>
 
-Demowebsite(MAIN).html--- IS MAIN FILE(to run the website)
+Demo website(MAIN).html--- IS MAIN FILE(to run the website)
